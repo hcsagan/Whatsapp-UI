@@ -1,0 +1,12 @@
+{
+  "name": "styledcomponents",
+  "displayName": "styledcomponents",
+  "expo": {
+    "name": "styledcomponents",
+    "slug": "styledcomponents",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
