@@ -1,12 +1,10 @@
 {
-  "name": "styledcomponents",
-  "displayName": "styledcomponents",
+  "name": "whatsapp-ui",
+  "displayName": "whatsapp-ui",
   "expo": {
-    "name": "styledcomponents",
-    "slug": "styledcomponents",
+    "name": "whatsapp-ui",
+    "slug": "whatsapp-ui",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
