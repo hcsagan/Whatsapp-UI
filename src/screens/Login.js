@@ -1,10 +1,19 @@
 import React, { useEffect, useState } from "react";
-import { StyleSheet, Text, View, Platform, Picker, TextInput, SafeAreaView } from "react-native";
+import {
+  StyleSheet,
+  Text,
+  View,
+  Platform,
+  Picker,
+  TextInput,
+  SafeAreaView,
+  ScrollView,
+} from "react-native";
 import { useIsFocused, useTheme } from "@react-navigation/native";
 import { StatusBar } from "expo-status-bar";
 import countries from "../data/countries.json";
 import RNPickerSelect from "react-native-picker-select";
-import { ScrollView, TouchableOpacity } from "react-native-gesture-handler";
+import { TouchableOpacity } from "react-native-gesture-handler";
 import BallButton from "../components/BallButton";
 import Input from "../components/Input";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
